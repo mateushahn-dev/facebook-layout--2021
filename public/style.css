@@ -276,27 +276,27 @@ main {
 }
 
 .store-1 {
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(../images/vika-strawberrika-EyFuKNXPKnw-unsplash.jpg);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(./images/vika-strawberrika-EyFuKNXPKnw-unsplash.jpg);
     background-size: cover;
 }
 
 .store-2 {
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(../images/davies-designs-studio-f5_lfi2S-d4-unsplash.jpg);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(./images/davies-designs-studio-f5_lfi2S-d4-unsplash.jpg);
     background-size: cover;
 }
 
 .store-3 {
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(../images/jocke-wulcan-KLOW1bD616Y-unsplash.jpg);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(./images/jocke-wulcan-KLOW1bD616Y-unsplash.jpg);
     background-size: cover;
 }
 
 .store-4 {
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(../images/tamara-malaniy-14Z-2fWoi7E-unsplash.jpg);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(./images/tamara-malaniy-14Z-2fWoi7E-unsplash.jpg);
     background-size: cover;
 }
 
 .store-5 {
-    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(../images/status-2.png);
+    background: radial-gradient(circle, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%), url(./images/status-2.png);
     background-size: cover;
 }
 
